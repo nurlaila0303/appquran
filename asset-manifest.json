@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/quranku/static/css/main.d2e74ee7.css",
+    "main.js": "/quranku/static/js/main.28dcc605.js",
+    "static/js/787.fd22eec5.chunk.js": "/quranku/static/js/787.fd22eec5.chunk.js",
+    "static/media/foto.jpeg": "/quranku/static/media/foto.11958c80898c43e24064.jpeg",
+    "static/media/quran.png": "/quranku/static/media/quran.49a7d7c7c3da4a792fc0.png",
+    "static/media/logoquran.png": "/quranku/static/media/logoquran.6709f86a951a6a3e9d35.png",
+    "static/media/quran2.jpg": "/quranku/static/media/quran2.bfd1e6ea80c38e49e4a7.jpg",
+    "index.html": "/quranku/index.html",
+    "main.d2e74ee7.css.map": "/quranku/static/css/main.d2e74ee7.css.map",
+    "main.28dcc605.js.map": "/quranku/static/js/main.28dcc605.js.map",
+    "787.fd22eec5.chunk.js.map": "/quranku/static/js/787.fd22eec5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2e74ee7.css",
+    "static/js/main.28dcc605.js"
+  ]
+}

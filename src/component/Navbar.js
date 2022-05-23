@@ -31,7 +31,7 @@ const Navbar1 =()=>{
     return (
         <div>
             <>
-                <Navbar className="fixed-top" collapseOnSelect expand="lg" bg="success" variant="dark" style={{height : "70px", }  }>
+                <Navbar className="fixed-top" collapseOnSelect expand="lg" bg="success" variant="dark" style={{height : "50px", }  }>
                     <Container>
                         <Navbar.Brand >
                             <Link to="/" className="text-decoration-none text-light">
@@ -41,7 +41,7 @@ const Navbar1 =()=>{
                                     width="100px"
                                     height="100px"
 
-                                />{' '}
+                                />
                             </Link>
                         </Navbar.Brand>
                         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
